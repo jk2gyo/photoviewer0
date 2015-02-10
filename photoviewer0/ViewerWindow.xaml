@@ -1,0 +1,11 @@
+﻿<Window x:Class="photoviewer0.ViewerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:photoviewer0" 
+        xmlns:common="clr-namespace:photoviewer0.Common" 
+        Title="hoge viewer">
+   
+    <Grid>
+        
+    </Grid>
+</Window>
